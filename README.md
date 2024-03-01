@@ -91,8 +91,8 @@ https://up.autodesk.com/2022/ACD/007B72E4-8B2C-35A5-8816-1E5386A7BDF5/AutoCAD_20
 ### AutoCAD 2023 x64
 https://dds.autodesk.com/NetSWDLD/2023/ACD/8FB3A471-BAFE-379D-AE7F-9ECF1E74401D/SFX/AutoCAD_2023_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe
 https://dds.autodesk.com/NetSWDLD/2023/ACD/8FB3A471-BAFE-379D-AE7F-9ECF1E74401D/SFX/AutoCAD_2023_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe
-#### AutoCAD 2023.1.4 Update x64
-https://up.autodesk.com/2023/ACD/32B8960F-CDF8-3965-BBF6-7DF1E39824AA/AutoCAD_2023.1.4_Update.exe
+#### AutoCAD 2023.1.5 Update x64
+https://up.autodesk.com/NetSWCOM/prd/ACD/00DFB7E2-44D7-331B-836F-5392A6FA6001/AutoCAD_2023.1.5_Update.exe
 ### AutoCAD 2024 x64
 https://dds.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4EAF3698A/SFX/AutoCAD_2024_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe
 https://dds.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4EAF3698A/SFX/AutoCAD_2024_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe
