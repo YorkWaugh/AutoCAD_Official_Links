@@ -98,3 +98,5 @@ https://dds.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4EAF3698A/
 https://dds.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4EAF3698A/SFX/AutoCAD_2024_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe
 #### AutoCAD 2024.1.3 Update x64
 https://up.autodesk.com/NetSWCOM/prd/ACD/99790664-2DF1-3A87-BBE2-358DD30F60F9/AutoCAD_2024.1.3_Update.exe
+### AutoCAD 2025 x64
+https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/7B66591E-A260-34D2-B2AD-8FDC4EA76CE8/SFX/AutoCAD_2025_Simplified_Chinese_Win_64bit_db_002_002.7z
