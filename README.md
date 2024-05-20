@@ -31,7 +31,7 @@ http://knowledge.autodesk.com/sites/default/files/file_downloads/AutoCAD_2012_SP
 ### AutoCAD 2013 x86/x64
 http://trial.autodesk.com/SWDLDDLM/2013/ACD/ESD/AutoCAD_2013_Simplified_Chinese_Win_32bit.exe
 http://trial.autodesk.com/SWDLDDLM/2013/ACD/ESD/AutoCAD_2013_Simplified_Chinese_Win_64bit.exe
-#### AutoCAD 2013 SP2 X86/X64
+#### AutoCAD 2013 SP2 x86/x64
 http://knowledge.autodesk.com/sites/default/files/file_downloads/AutoCAD_2013_SP2_32bit.exe
 http://knowledge.autodesk.com/sites/default/files/file_downloads/AutoCAD_2013_SP2_64bit.exe
 ### AutoCAD 2014 x86/x64
