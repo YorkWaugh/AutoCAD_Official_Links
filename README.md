@@ -104,3 +104,5 @@ https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/7B66591E-A260-34D2-B2AD-8FDC
 https://up.autodesk.com/prd/2025/ACD/328DFA4B-5E57-3F0D-A752-81527DD993ED/AutoCAD_2025.1.2_Update.exe
 ### AutoCAD 2026 x64
 https://dds.autodesk.com/NetSWDLD/ODIS/prd/2026/ACD/9165B4AF-8BF4-37D6-882D-694B73603AED/SFX/ACD_2026_simplified_chinese_win_db_002_002.7z
+#### AutoCAD 2026.0.1 Update x64
+https://up.autodesk.com/prd/2026/ACD/FC7F2796-862D-304E-835B-85CFCEFF6F3B/AutoCAD_2026.0.1_Update.exe
