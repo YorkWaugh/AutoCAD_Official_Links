@@ -86,8 +86,8 @@ http://trial2.autodesk.com/NetSWDLD/2021/ACD/9046B381-E756-4D38-A7EF-FAD07F4456E
 https://up.autodesk.com/2021/ACD/D24C6C4D-955A-403B-8439-338AEB94DAF8/AutoCAD_2021.1.3_Update_64bit.exe
 ### AutoCAD 2022 x64
 http://dds.autodesk.com/NetSWDLD/2022/ACD/7EE008AE-5D6A-3AA3-ACDF-EC695BCCA205/SFX/AutoCAD_2022_Simplified_Chinese_Win_64bit_dlm.sfx.exe
-#### AutoCAD 2022.1.4 Update x64
-https://up.autodesk.com/NetSWCOM/prd/ACD/549E2E4B-80D8-370A-B454-D2A9760D48AB/AutoCAD_2022.1.4_Update.exe
+#### AutoCAD 2022.1.5 Update x64
+https://up.autodesk.com/NetSWCOM/prd/ACD/028F632A-A4B5-3389-B19B-B9D4BE2C0385/AutoCAD_2022.1.5_Update.exe
 ### AutoCAD 2023 x64
 https://dds.autodesk.com/NetSWDLD/2023/ACD/8FB3A471-BAFE-379D-AE7F-9ECF1E74401D/SFX/AutoCAD_2023_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe
 https://dds.autodesk.com/NetSWDLD/2023/ACD/8FB3A471-BAFE-379D-AE7F-9ECF1E74401D/SFX/AutoCAD_2023_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe
