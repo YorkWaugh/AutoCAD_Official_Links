@@ -175,7 +175,7 @@ AutoCAD Simplified Chinese Official Links Collection
 
 ### AutoCAD 2025.1.2 Update x64
 
-[https://up1.autodesk.com/prd/2025/ACD/328DFA4B-5E57-3F0D-A752-81527DD993ED/AutoCAD_2025.1.2_Update.exe](https://up1.autodesk.com/prd/2025/ACD/328DFA4B-5E57-3F0D-A752-81527DD993ED/AutoCAD_2025.1.2_Update.exe)
+[https://up.autodesk.com/prd/2025/ACD/328DFA4B-5E57-3F0D-A752-81527DD993ED/AutoCAD_2025.1.2_Update.exe](https://up.autodesk.com/prd/2025/ACD/328DFA4B-5E57-3F0D-A752-81527DD993ED/AutoCAD_2025.1.2_Update.exe)
 
 ## AutoCAD 2026 x64
 
