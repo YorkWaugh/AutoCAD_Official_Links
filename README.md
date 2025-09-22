@@ -165,9 +165,9 @@ AutoCAD Simplified Chinese Official Links Collection
 [https://dds.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4EAF3698A/SFX/AutoCAD_2024_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe](https://dds.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4EAF3698A/SFX/AutoCAD_2024_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe)
 [https://dds.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4EAF3698A/SFX/AutoCAD_2024_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe](https://dds.autodesk.com/NetSWDLD/2024/ACD/C0D3A90A-5925-3283-B826-68A4EAF3698A/SFX/AutoCAD_2024_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe)
 
-### AutoCAD 2024.1.7 Update x64
+### AutoCAD 2024.1.8 Update x64
 
-[https://up.autodesk.com/prd/2024/ACD/FA18D98E-20C9-3A99-8E35-309D5C670A03/AutoCAD_2024.1.7_Update.exe](https://up.autodesk.com/prd/2024/ACD/FA18D98E-20C9-3A99-8E35-309D5C670A03/AutoCAD_2024.1.7_Update.exe)
+[https://up.autodesk.com/prd/2024/ACD/1358C033-3AB3-3BCA-A559-143F46368073/AutoCAD_2024.1.8_Update.exe](https://up.autodesk.com/prd/2024/ACD/1358C033-3AB3-3BCA-A559-143F46368073/AutoCAD_2024.1.8_Update.exe)
 
 ## AutoCAD 2025 x64
 
