@@ -156,9 +156,9 @@ AutoCAD Simplified Chinese Official Links Collection
 [https://dds.autodesk.com/NetSWDLD/2023/ACD/8FB3A471-BAFE-379D-AE7F-9ECF1E74401D/SFX/AutoCAD_2023_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe](https://dds.autodesk.com/NetSWDLD/2023/ACD/8FB3A471-BAFE-379D-AE7F-9ECF1E74401D/SFX/AutoCAD_2023_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe)
 [https://dds.autodesk.com/NetSWDLD/2023/ACD/8FB3A471-BAFE-379D-AE7F-9ECF1E74401D/SFX/AutoCAD_2023_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe](https://dds.autodesk.com/NetSWDLD/2023/ACD/8FB3A471-BAFE-379D-AE7F-9ECF1E74401D/SFX/AutoCAD_2023_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe)
 
-### AutoCAD 2023.1.7 Update x64
+### AutoCAD 2023.1.8 Update x64
 
-[https://up.autodesk.com/prd/2023/ACD/70B45F92-D101-3FAD-B41A-25AC01BE5246//AutoCAD_2023.1.7_Update.exe](https://up.autodesk.com/prd/2023/ACD/70B45F92-D101-3FAD-B41A-25AC01BE5246//AutoCAD_2023.1.7_Update.exe)
+[https://up.autodesk.com/prd/2023/ACD/0CC709E7-420B-398C-BAF0-36E1F2A5764A/AutoCAD_2023.1.8_Update.exe](https://up.autodesk.com/prd/2023/ACD/0CC709E7-420B-398C-BAF0-36E1F2A5764A/AutoCAD_2023.1.8_Update.exe)
 
 ## AutoCAD 2024 x64
 
