@@ -184,3 +184,8 @@ AutoCAD Simplified Chinese Official Links Collection
 ### AutoCAD 2026.1.1 Update x64
 
 [https://up.autodesk.com/prd/2026/ACD/274F8D06-1372-3673-9A39-2DFFA15AE2D3/AutoCAD_2026.1.1_Update.exe](https://up.autodesk.com/prd/2026/ACD/274F8D06-1372-3673-9A39-2DFFA15AE2D3/AutoCAD_2026.1.1_Update.exe)
+
+## AutoCAD 2027 x64
+
+[https://trial2.autodesk.com/NetSWDLD/ODIS/prd/2027/ACD/7D80AF85-9A41-3CD8-83CF-1A5A3C67AB47/SFX/ACD_2027_simplified_chinese_win_db_002_002.7z](https://trial2.autodesk.com/NetSWDLD/ODIS/prd/2027/ACD/7D80AF85-9A41-3CD8-83CF-1A5A3C67AB47/SFX/ACD_2027_simplified_chinese_win_db_002_002.7z)
+
