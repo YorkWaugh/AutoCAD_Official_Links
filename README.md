@@ -173,9 +173,9 @@ AutoCAD Simplified Chinese Official Links Collection
 
 [https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/7B66591E-A260-34D2-B2AD-8FDC4EA76CE8/SFX/AutoCAD_2025_Simplified_Chinese_Win_64bit_db_002_002.7z](https://dds.autodesk.com/NetSWDLD/ODIS/prd/2025/ACD/7B66591E-A260-34D2-B2AD-8FDC4EA76CE8/SFX/AutoCAD_2025_Simplified_Chinese_Win_64bit_db_002_002.7z)
 
-### AutoCAD 2025.1.2 Update x64
+### AutoCAD 2025.1.3 Update x64
 
-[https://up.autodesk.com/prd/2025/ACD/328DFA4B-5E57-3F0D-A752-81527DD993ED/AutoCAD_2025.1.2_Update.exe](https://up.autodesk.com/prd/2025/ACD/328DFA4B-5E57-3F0D-A752-81527DD993ED/AutoCAD_2025.1.2_Update.exe)
+[https://up1.autodesk.com/prd/2025/ACD/62FBDCBD-5110-3D5C-9AA8-22963A9E78AC/AutoCAD_2025.1.3_Update.exe](https://up1.autodesk.com/prd/2025/ACD/62FBDCBD-5110-3D5C-9AA8-22963A9E78AC/AutoCAD_2025.1.3_Update.exe)
 
 ## AutoCAD 2026 x64
 
