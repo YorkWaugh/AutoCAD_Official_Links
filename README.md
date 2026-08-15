@@ -1,3 +1,5 @@
+
+
 # AutoCAD Official Links
 
 AutoCAD Simplified Chinese Official Links Collection
@@ -192,3 +194,5 @@ AutoCAD Simplified Chinese Official Links Collection
 ### AutoCAD 2027.1.0 Update x64
 
 [https://up.autodesk.com/prd/2027/ACD/DB48EE8C-BA9A-332A-9F6F-3F6296E95477/AutoCAD_2027.1_Update.exe](https://up.autodesk.com/prd/2027/ACD/DB48EE8C-BA9A-332A-9F6F-3F6296E95477/AutoCAD_2027.1_Update.exe)
+
+> **Note:** These are official Autodesk trial/download links. A valid Autodesk account or license key is typically required for activation.
